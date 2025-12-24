@@ -1,4 +1,4 @@
-KNN Iris Decision Boundary
+## KNN Iris Decision Boundary
 
 This repository contains a Jupyter Notebook demonstrating K-Nearest Neighbors (KNN) classification applied to the classic Iris dataset, with a focus on visualizing decision boundaries.
 
